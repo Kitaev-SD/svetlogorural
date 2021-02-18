@@ -1,0 +1,192 @@
+@font-face {
+  font-family: 'font_aravana';
+  src:  url('../fonts/font_aravana.eot?os2py8');
+  src:  url('../fonts/font_aravana.eot?os2py8#iefix') format('embedded-opentype'),
+    url('../fonts/font_aravana.ttf?os2py8') format('truetype'),
+    url('../fonts/font_aravana.woff?os2py8') format('woff'),
+    url('../fonts/font_aravana.svg?os2py8#font_aravana') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ic-"], [class*=" ic-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'font_aravana' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.aravana {
+	font-family: 'font_aravana';
+	}
+.ic-application_processing:before {
+  content: "\e900";
+}
+.ic-arrows_back:before {
+  content: "\e901";
+}
+.ic-arrows_down:before {
+  content: "\e902";
+}
+.ic-arrows_next:before {
+  content: "\e903";
+}
+.ic-arrows_up:before {
+  content: "\e904";
+}
+.ic-assistant:before {
+  content: "\e905";
+}
+.ic-back:before {
+  content: "\e906";
+}
+.ic-call:before {
+  content: "\e907";
+}
+.ic-crm:before {
+  content: "\e908";
+}
+.ic-customer-servic:before {
+  content: "\e909";
+}
+.ic-dump-truck:before {
+  content: "\e90a";
+}
+.ic-email:before {
+  content: "\e90b";
+}
+.ic-folder:before {
+  content: "\e90c";
+}
+.ic-funeral:before {
+  content: "\e90d";
+}
+.ic-law:before {
+  content: "\e90e";
+}
+.ic-menu_burger:before {
+  content: "\e90f";
+  color: #556080;
+}
+.ic-menu_points:before {
+  content: "\e910";
+}
+.ic-next:before {
+  content: "\e911";
+}
+.ic-pdf:before {
+  content: "\e912";
+}
+.ic-phone:before {
+  content: "\e913";
+}
+.ic-phone_call:before {
+  content: "\e914";
+}
+.ic-pin:before {
+  content: "\e915";
+}
+.ic-production:before {
+  content: "\e916";
+}
+.ic-quality_control:before {
+  content: "\e917";
+}
+.ic-sale:before {
+  content: "\e918";
+}
+.ic-sand:before {
+  content: "\e919";
+}
+.ic-search:before {
+  content: "\e91a";
+}
+.ic-send:before {
+  content: "\e91b";
+}
+.ic-sheben:before {
+  content: "\e91c";
+}
+.ic-shopping_cart:before {
+  content: "\e91d";
+}
+.ic-skidki:before {
+  content: "\e91e";
+}
+.ic-smartphone:before {
+  content: "\e91f";
+}
+.ic-sound:before {
+  content: "\e920";
+}
+.ic-star:before {
+  content: "\e921";
+}
+.ic-stock_availability:before {
+  content: "\e922";
+}
+.ic-stones_floor:before {
+  content: "\e923";
+}
+.ic-suitcase:before {
+  content: "\e924";
+}
+.ic-support:before {
+  content: "\e925";
+}
+.ic-support_light:before {
+  content: "\e926";
+}
+.ic-system:before {
+  content: "\e927";
+}
+.ic-tablet:before {
+  content: "\e928";
+}
+.ic-telegram_2:before {
+  content: "\e929";
+}
+.ic-truck:before {
+  content: "\e92a";
+}
+.ic-viber_1:before {
+  content: "\e92b";
+}
+.ic-vk_color .path1:before {
+  content: "\e92c";
+  color: rgb(51, 115, 158);
+}
+.ic-vk_color .path2:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.15;
+}
+.ic-vk_color .path3:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(244, 246, 249);
+}
+.ic-wallet:before {
+  content: "\e92f";
+}
+.ic-warehouse:before {
+  content: "\e930";
+}
+.ic-whatsapp_1:before {
+  content: "\e931";
+}
+.ic-you-are-here:before {
+  content: "\e932";
+}
+.ic-zakaz-i-dostavka:before {
+  content: "\e933";
+}

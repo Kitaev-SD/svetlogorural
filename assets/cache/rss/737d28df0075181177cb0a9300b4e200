@@ -1,0 +1,465 @@
+O:9:"MagpieRSS":24:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:10:{i:0;a:8:{s:5:"title";s:19:"Evolution CMS 3.0.1";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/3.0.1";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Mon, 01 Feb 2021 06:55:39 PST";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/3.0.1";s:11:"description";s:3422:"<h1>10,000 commits</h1>
+<h2>Update from 3.0 to 3.0.1</h2>
+<p>run console command from core folder:<br>
+<code>php artisan make:site update</code></p>
+<h2>How update to 3.0.1 from 1.4.12 or 2.0.4 (English subtitles):</h2>
+<p><a href="https://youtu.be/RjOiq35FgW4" rel="nofollow"><img src="https://user-images.githubusercontent.com/669491/106474695-d6c0a000-64ad-11eb-9eda-a24a44dccbec.png" alt="Watch the video" style="max-width:100%;"></a></p>
+<p>Change log:</p>
+<ul>
+<li>[GitHub:#6e9aa7b65] - extras (refactor) add version for store.js (Serious)</li>
+<li>[GitHub:#121c40ea7] - extras (refactor) add check for plugins and snippet installed (Serious)</li>
+<li>[GitHub:#fb66e044b] - manager (fix) fix save user data (Serious)</li>
+<li>[GitHub:#a2961cf90] - Update README (Marc)</li>
+<li>[GitHub:#59626b9ea] - core (fix) fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="797340167" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1819" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1819/hovercard" href="https://github.com/evolution-cms/evolution/issues/1819">#1819</a> notice on dob field (Serious)</li>
+<li>[GitHub:#04fb0bdad] - core (fix) fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="797329010" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1818" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1818/hovercard" href="https://github.com/evolution-cms/evolution/issues/1818">#1818</a> error when use <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/csrf/hovercard" href="https://github.com/csrf">@csrf</a> (Serious)</li>
+<li>[GitHub:#7dc58973a] - install (fix) change language list to strtoupper (Serious)</li>
+<li>[GitHub:#fd34dd2ab] - manager (fix) change language list to strtoupper (Serious)</li>
+<li>[GitHub:#5ac0fd0e7] - core (fix) add exception for redis session handler (Serious)</li>
+<li>[GitHub:#3dcdae6ae] - core (fix) fix legacy parser (Serious)</li>
+<li>[GitHub:#889890b73] - core (fix) fix MGR_DIR in old file (v)</li>
+<li>[GitHub:#ed4ef5f53] - core (fix) fix table name (Serious)</li>
+<li>[GitHub:#fb4df776d] - core (fix) delete not used allow_manager_access (Serious)</li>
+<li>[GitHub:#3837d4da0] - core (fix) run evolution cms parser when laravel route fail (Serious)</li>
+<li>[GitHub:#0831360fd] - Update files.dynamic.php (Mr B)</li>
+<li>[GitHub:#0fdf7e766] - Update Readme (Marc)</li>
+<li>[GitHub:#50f522dde] - Added Youtube channel and Telegram (Marc)</li>
+<li>[GitHub:#4f984ec72] - manager (fix) context menu fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="792803235" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1793" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1793/hovercard" href="https://github.com/evolution-cms/evolution/issues/1793">#1793</a> (Serious)</li>
+<li>[GitHub:#6e46c912d] - manager (fix) can edit trashed documents (Serious)</li>
+<li>[GitHub:#71f740ec6] - manager (fix) check user before work with him (Serious)</li>
+<li>[GitHub:#dd6dc20b6] - core (fix) fix laravel router (Serious)</li>
+<li>[GitHub:#94dcc75e6] - manager (fix) fix login errors (Serious)</li>
+</ul>";s:7:"summary";s:3422:"<h1>10,000 commits</h1>
+<h2>Update from 3.0 to 3.0.1</h2>
+<p>run console command from core folder:<br>
+<code>php artisan make:site update</code></p>
+<h2>How update to 3.0.1 from 1.4.12 or 2.0.4 (English subtitles):</h2>
+<p><a href="https://youtu.be/RjOiq35FgW4" rel="nofollow"><img src="https://user-images.githubusercontent.com/669491/106474695-d6c0a000-64ad-11eb-9eda-a24a44dccbec.png" alt="Watch the video" style="max-width:100%;"></a></p>
+<p>Change log:</p>
+<ul>
+<li>[GitHub:#6e9aa7b65] - extras (refactor) add version for store.js (Serious)</li>
+<li>[GitHub:#121c40ea7] - extras (refactor) add check for plugins and snippet installed (Serious)</li>
+<li>[GitHub:#fb66e044b] - manager (fix) fix save user data (Serious)</li>
+<li>[GitHub:#a2961cf90] - Update README (Marc)</li>
+<li>[GitHub:#59626b9ea] - core (fix) fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="797340167" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1819" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1819/hovercard" href="https://github.com/evolution-cms/evolution/issues/1819">#1819</a> notice on dob field (Serious)</li>
+<li>[GitHub:#04fb0bdad] - core (fix) fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="797329010" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1818" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1818/hovercard" href="https://github.com/evolution-cms/evolution/issues/1818">#1818</a> error when use <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/csrf/hovercard" href="https://github.com/csrf">@csrf</a> (Serious)</li>
+<li>[GitHub:#7dc58973a] - install (fix) change language list to strtoupper (Serious)</li>
+<li>[GitHub:#fd34dd2ab] - manager (fix) change language list to strtoupper (Serious)</li>
+<li>[GitHub:#5ac0fd0e7] - core (fix) add exception for redis session handler (Serious)</li>
+<li>[GitHub:#3dcdae6ae] - core (fix) fix legacy parser (Serious)</li>
+<li>[GitHub:#889890b73] - core (fix) fix MGR_DIR in old file (v)</li>
+<li>[GitHub:#ed4ef5f53] - core (fix) fix table name (Serious)</li>
+<li>[GitHub:#fb4df776d] - core (fix) delete not used allow_manager_access (Serious)</li>
+<li>[GitHub:#3837d4da0] - core (fix) run evolution cms parser when laravel route fail (Serious)</li>
+<li>[GitHub:#0831360fd] - Update files.dynamic.php (Mr B)</li>
+<li>[GitHub:#0fdf7e766] - Update Readme (Marc)</li>
+<li>[GitHub:#50f522dde] - Added Youtube channel and Telegram (Marc)</li>
+<li>[GitHub:#4f984ec72] - manager (fix) context menu fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="792803235" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1793" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1793/hovercard" href="https://github.com/evolution-cms/evolution/issues/1793">#1793</a> (Serious)</li>
+<li>[GitHub:#6e46c912d] - manager (fix) can edit trashed documents (Serious)</li>
+<li>[GitHub:#71f740ec6] - manager (fix) check user before work with him (Serious)</li>
+<li>[GitHub:#dd6dc20b6] - core (fix) fix laravel router (Serious)</li>
+<li>[GitHub:#94dcc75e6] - manager (fix) fix login errors (Serious)</li>
+</ul>";s:14:"date_timestamp";i:1612191339;}i:1;a:8:{s:5:"title";s:17:"Evolution CMS 3.0";s:4:"link";s:59:"https://github.com/evolution-cms/evolution/releases/tag/3.0";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Fri, 22 Jan 2021 23:54:34 PST";s:4:"guid";s:43:"tag:github.com,2008:Repository/12320050/3.0";s:11:"description";s:273:"<p>Evolution CMS 3.0 Online Presentation</p>
+<p>На русском:<br>
+<a href="https://youtu.be/YhbLiL3lT_4" rel="nofollow">https://youtu.be/YhbLiL3lT_4</a></p>
+<p>In english:<br>
+<a href="https://youtu.be/xDIdfZrlCgk" rel="nofollow">https://youtu.be/xDIdfZrlCgk</a></p>";s:7:"summary";s:273:"<p>Evolution CMS 3.0 Online Presentation</p>
+<p>На русском:<br>
+<a href="https://youtu.be/YhbLiL3lT_4" rel="nofollow">https://youtu.be/YhbLiL3lT_4</a></p>
+<p>In english:<br>
+<a href="https://youtu.be/xDIdfZrlCgk" rel="nofollow">https://youtu.be/xDIdfZrlCgk</a></p>";s:14:"date_timestamp";i:1611388474;}i:2;a:8:{s:5:"title";s:21:"Evolution CMS 3.0 RC3";s:4:"link";s:62:"https://github.com/evolution-cms/evolution/releases/tag/3.0RC3";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Fri, 25 Dec 2020 03:32:50 PST";s:4:"guid";s:46:"tag:github.com,2008:Repository/12320050/3.0RC3";s:11:"description";s:2808:"<p><a href="https://ddaproduction.com/evoevent2021.html" rel="nofollow"></a></p><h2><a href="https://ddaproduction.com/evoevent2021.html" rel="nofollow">Registration for the online presentation of Evolution CMS 3.0</a></h2><br>
+<a href="https://ddaproduction.com/evoevent2021.html" rel="nofollow"><img src="https://user-images.githubusercontent.com/669491/103133599-07920600-46b4-11eb-9457-befab1b00fef.png" alt="Evolution-CMS-3-0_conference_23-01-2021_" style="max-width:100%;"></a><p></p>
+<h1>What's new in EVO 3 ?</h1>
+<h3>Evolution CMS 3.0 RC3</h3>
+<ul>
+<li>Update to Laravel 8</li>
+<li>Add TVs for Users</li>
+<li>evo() short name for evolutionCMS()  ($modx = $evo();)</li>
+<li>Now work in BLADE: @auth, <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/guest/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/guest">@guest</a>, <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/csrf/hovercard" href="https://github.com/csrf">@csrf</a></li>
+<li>Add Auth facade who work like Laravel Auth</li>
+<li>add Laravel Http</li>
+<li>New command for update:  artisan make:site update 3.x</li>
+<li>add middleware VerifyCsrfToken</li>
+<li>work on php 8</li>
+</ul>
+<h3>Evolution CMS 3.0 RC2</h3>
+<ul>
+<li>Laravel routing for ajax or custom routing with Validator, Request, Response</li>
+<li>Merge Webusers and Managers to Users</li>
+<li>Full refactor work with Users and Roles</li>
+<li>Rewrite langs on Laravel Style</li>
+<li>Optimization of speed</li>
+<li>Add console Extras</li>
+<li>Add console command for full cache clear<br>
+more info: <a href="https://github.com/evolution-cms/evolution/releases/tag/3.0RC2">https://github.com/evolution-cms/evolution/releases/tag/3.0RC2</a></li>
+</ul>
+<h3>Evolution CMS 3.0 RC</h3>
+<ul>
+<li>PostgreSQL support</li>
+<li>Redis sessions support</li>
+<li>Install/Update by migrations</li>
+<li>Install/Update by CLI</li>
+<li>Docker support</li>
+<li>Controllers support in core</li>
+<li>Closure Table</li>
+<li>DLSiteContent</li>
+<li>Remove from core unused elements (Messages, Import, Export)</li>
+<li>Move to Extras (DocLister, DocInfo, Summary, Phpthumb, DLCrumb, DLMenu, DLSitemap, FormLister, If, Doc Manager, ElementInTree, FileSource, Quick Manager+)</li>
+<li>Remove Demo site</li>
+<li>Create \helpers::phpthumb ({{\Helper::phpThumb('assets/images/evo-logo.png', 'w=150,h=76,far=C,bg=FFFFFF')}})</li>
+<li>Tracy add new type (manager/admin/adminfrontonly/managerfrontonly)</li>
+<li>Refactor Tracy dump and bdump functions for show all depth of data</li>
+<li>Add cache to get documentObject<br>
+more info: <a href="https://github.com/evolution-cms/evolution/releases/tag/3.0RC">https://github.com/evolution-cms/evolution/releases/tag/3.0RC</a></li>
+</ul>";s:7:"summary";s:2808:"<p><a href="https://ddaproduction.com/evoevent2021.html" rel="nofollow"></a></p><h2><a href="https://ddaproduction.com/evoevent2021.html" rel="nofollow">Registration for the online presentation of Evolution CMS 3.0</a></h2><br>
+<a href="https://ddaproduction.com/evoevent2021.html" rel="nofollow"><img src="https://user-images.githubusercontent.com/669491/103133599-07920600-46b4-11eb-9457-befab1b00fef.png" alt="Evolution-CMS-3-0_conference_23-01-2021_" style="max-width:100%;"></a><p></p>
+<h1>What's new in EVO 3 ?</h1>
+<h3>Evolution CMS 3.0 RC3</h3>
+<ul>
+<li>Update to Laravel 8</li>
+<li>Add TVs for Users</li>
+<li>evo() short name for evolutionCMS()  ($modx = $evo();)</li>
+<li>Now work in BLADE: @auth, <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/guest/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/guest">@guest</a>, <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/csrf/hovercard" href="https://github.com/csrf">@csrf</a></li>
+<li>Add Auth facade who work like Laravel Auth</li>
+<li>add Laravel Http</li>
+<li>New command for update:  artisan make:site update 3.x</li>
+<li>add middleware VerifyCsrfToken</li>
+<li>work on php 8</li>
+</ul>
+<h3>Evolution CMS 3.0 RC2</h3>
+<ul>
+<li>Laravel routing for ajax or custom routing with Validator, Request, Response</li>
+<li>Merge Webusers and Managers to Users</li>
+<li>Full refactor work with Users and Roles</li>
+<li>Rewrite langs on Laravel Style</li>
+<li>Optimization of speed</li>
+<li>Add console Extras</li>
+<li>Add console command for full cache clear<br>
+more info: <a href="https://github.com/evolution-cms/evolution/releases/tag/3.0RC2">https://github.com/evolution-cms/evolution/releases/tag/3.0RC2</a></li>
+</ul>
+<h3>Evolution CMS 3.0 RC</h3>
+<ul>
+<li>PostgreSQL support</li>
+<li>Redis sessions support</li>
+<li>Install/Update by migrations</li>
+<li>Install/Update by CLI</li>
+<li>Docker support</li>
+<li>Controllers support in core</li>
+<li>Closure Table</li>
+<li>DLSiteContent</li>
+<li>Remove from core unused elements (Messages, Import, Export)</li>
+<li>Move to Extras (DocLister, DocInfo, Summary, Phpthumb, DLCrumb, DLMenu, DLSitemap, FormLister, If, Doc Manager, ElementInTree, FileSource, Quick Manager+)</li>
+<li>Remove Demo site</li>
+<li>Create \helpers::phpthumb ({{\Helper::phpThumb('assets/images/evo-logo.png', 'w=150,h=76,far=C,bg=FFFFFF')}})</li>
+<li>Tracy add new type (manager/admin/adminfrontonly/managerfrontonly)</li>
+<li>Refactor Tracy dump and bdump functions for show all depth of data</li>
+<li>Add cache to get documentObject<br>
+more info: <a href="https://github.com/evolution-cms/evolution/releases/tag/3.0RC">https://github.com/evolution-cms/evolution/releases/tag/3.0RC</a></li>
+</ul>";s:14:"date_timestamp";i:1608895970;}i:3;a:8:{s:5:"title";s:19:"Evolution CMS 2.0.4";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/2.0.4";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Mon, 21 Dec 2020 12:45:38 PST";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/2.0.4";s:11:"description";s:520:"<p>Correction of minor bugs and more. I strongly recommend updating, as a vulnerability has been found and fixed.</p>
+<ul>
+<li>update TinyMCE to 4.9 (Dmi3yy)</li>
+<li>fix error messages (Dmi3yy)</li>
+<li>core (refactor) rewrite log writer to models (Ser1ous)</li>
+<li>fix version modx-evo-database (Dmytro Lukianenko)</li>
+<li>Update save_template.processor.php (zatomant)</li>
+<li>manager (fix) Add sort to Category model (Ser1ous)</li>
+<li>fix for //// slash for htaccess (Dmi3yy)</li>
+<li>fix vulnerability</li>
+</ul>";s:7:"summary";s:520:"<p>Correction of minor bugs and more. I strongly recommend updating, as a vulnerability has been found and fixed.</p>
+<ul>
+<li>update TinyMCE to 4.9 (Dmi3yy)</li>
+<li>fix error messages (Dmi3yy)</li>
+<li>core (refactor) rewrite log writer to models (Ser1ous)</li>
+<li>fix version modx-evo-database (Dmytro Lukianenko)</li>
+<li>Update save_template.processor.php (zatomant)</li>
+<li>manager (fix) Add sort to Category model (Ser1ous)</li>
+<li>fix for //// slash for htaccess (Dmi3yy)</li>
+<li>fix vulnerability</li>
+</ul>";s:14:"date_timestamp";i:1608583538;}i:4;a:8:{s:5:"title";s:20:"Evolution CMS 1.4.12";s:4:"link";s:62:"https://github.com/evolution-cms/evolution/releases/tag/1.4.12";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Mon, 21 Dec 2020 12:48:48 PST";s:4:"guid";s:46:"tag:github.com,2008:Repository/12320050/1.4.12";s:11:"description";s:117:"<p>Correction of minor bugs and more. I strongly recommend updating, as a vulnerability has been found and fixed.</p>";s:7:"summary";s:117:"<p>Correction of minor bugs and more. I strongly recommend updating, as a vulnerability has been found and fixed.</p>";s:14:"date_timestamp";i:1608583728;}i:5;a:8:{s:5:"title";s:20:"Evolution CMS 3.0RC2";s:4:"link";s:62:"https://github.com/evolution-cms/evolution/releases/tag/3.0RC2";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Sat, 31 Oct 2020 08:36:38 PDT";s:4:"guid";s:46:"tag:github.com,2008:Repository/12320050/3.0RC2";s:11:"description";s:2614:"<p>Evolution CMS 3.0 RC2</p>
+<h2>More and more new features for Evo 3</h2>
+<ul>
+<li>Laravel routing for ajax or custom routing with Validator, Request, Response</li>
+<li>Merge Webusers and Managers to Users</li>
+<li>Full refactor work with Users and Roles</li>
+<li>Rewrite langs on Laravel Style</li>
+<li>Optimization of speed</li>
+<li>Add console Extras</li>
+<li>Add console command for full cache clear</li>
+</ul>
+<h2>Users !!!</h2>
+<p>After merge users, all old solutions for work with WebUsers need fix for work with new logic.<br>
+how work with users you can read here:<br>
+<a href="https://github.com/evolution-cms/docs/blob/master/ru/03_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83/06_DI_%D0%B2_Evolution_CMS/05_UserManager.md">https://github.com/evolution-cms/docs/blob/master/ru/03_Разработчику/06_DI_в_Evolution_CMS/05_UserManager.md</a></p>
+<h2>Laravel Routing</h2>
+<p><a href="https://gist.github.com/Dmi3yy/10e5a004bb77a72a4446ac1ad4c2d9ad">https://gist.github.com/Dmi3yy/10e5a004bb77a72a4446ac1ad4c2d9ad</a> (ru)<br>
+En will be in release version<br>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97441545-85929480-1931-11eb-9773-a5495f299e77.gif"><img src="https://user-images.githubusercontent.com/669491/97441545-85929480-1931-11eb-9773-a5495f299e77.gif" alt="evo3routes" style="max-width:100%;"></a></p>
+<h2>Console Extras</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97783096-1a012f00-1b9e-11eb-8264-d315cbdca75f.gif"><img src="https://user-images.githubusercontent.com/669491/97783096-1a012f00-1b9e-11eb-8264-d315cbdca75f.gif" alt="IMG_9843" style="max-width:100%;"></a></p>
+<h2>Evolution CMS Speed</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97783107-27b6b480-1b9e-11eb-82c8-5ec73de1a4b0.png"><img width="337" alt="evo2_vs_evo3" src="https://user-images.githubusercontent.com/669491/97783107-27b6b480-1b9e-11eb-82c8-5ec73de1a4b0.png" style="max-width:100%;"></a></p>
+<h2>Upgrade from older versions</h2>
+<ol>
+<li>You need upgrade to 2.0.3 version</li>
+<li>Get script <strong>prepareToUpdateFrom2To3Evo</strong><br>
+Link: <a href="https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo">https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo</a>, or in Extras</li>
+<li>Run script on your site by url <strong>sitename</strong> /assets/updater.php</li>
+</ol>
+<p>The release version will contain a full description of the changes with examples of how to use it.</p>";s:7:"summary";s:2614:"<p>Evolution CMS 3.0 RC2</p>
+<h2>More and more new features for Evo 3</h2>
+<ul>
+<li>Laravel routing for ajax or custom routing with Validator, Request, Response</li>
+<li>Merge Webusers and Managers to Users</li>
+<li>Full refactor work with Users and Roles</li>
+<li>Rewrite langs on Laravel Style</li>
+<li>Optimization of speed</li>
+<li>Add console Extras</li>
+<li>Add console command for full cache clear</li>
+</ul>
+<h2>Users !!!</h2>
+<p>After merge users, all old solutions for work with WebUsers need fix for work with new logic.<br>
+how work with users you can read here:<br>
+<a href="https://github.com/evolution-cms/docs/blob/master/ru/03_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83/06_DI_%D0%B2_Evolution_CMS/05_UserManager.md">https://github.com/evolution-cms/docs/blob/master/ru/03_Разработчику/06_DI_в_Evolution_CMS/05_UserManager.md</a></p>
+<h2>Laravel Routing</h2>
+<p><a href="https://gist.github.com/Dmi3yy/10e5a004bb77a72a4446ac1ad4c2d9ad">https://gist.github.com/Dmi3yy/10e5a004bb77a72a4446ac1ad4c2d9ad</a> (ru)<br>
+En will be in release version<br>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97441545-85929480-1931-11eb-9773-a5495f299e77.gif"><img src="https://user-images.githubusercontent.com/669491/97441545-85929480-1931-11eb-9773-a5495f299e77.gif" alt="evo3routes" style="max-width:100%;"></a></p>
+<h2>Console Extras</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97783096-1a012f00-1b9e-11eb-8264-d315cbdca75f.gif"><img src="https://user-images.githubusercontent.com/669491/97783096-1a012f00-1b9e-11eb-8264-d315cbdca75f.gif" alt="IMG_9843" style="max-width:100%;"></a></p>
+<h2>Evolution CMS Speed</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97783107-27b6b480-1b9e-11eb-82c8-5ec73de1a4b0.png"><img width="337" alt="evo2_vs_evo3" src="https://user-images.githubusercontent.com/669491/97783107-27b6b480-1b9e-11eb-82c8-5ec73de1a4b0.png" style="max-width:100%;"></a></p>
+<h2>Upgrade from older versions</h2>
+<ol>
+<li>You need upgrade to 2.0.3 version</li>
+<li>Get script <strong>prepareToUpdateFrom2To3Evo</strong><br>
+Link: <a href="https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo">https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo</a>, or in Extras</li>
+<li>Run script on your site by url <strong>sitename</strong> /assets/updater.php</li>
+</ol>
+<p>The release version will contain a full description of the changes with examples of how to use it.</p>";s:14:"date_timestamp";i:1604158598;}i:6;a:8:{s:5:"title";s:20:"Evolution CMS 3.0 RC";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/3.0RC";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Thu, 01 Oct 2020 08:54:38 PDT";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/3.0RC";s:11:"description";s:1633:"<p>Evolution CMS 3.0 RC</p>
+<p>We continue developing and implementing new ideas in Evolution CMS, started in the 2.0 branch to reach even greater possibilities and convenience in working with CMS.</p>
+<h2>What's new?</h2>
+<ul>
+<li>PostgreSQL support</li>
+<li>Redis sessions support</li>
+<li>Install/Update by migrations</li>
+<li>Install/Update by CLI</li>
+<li>Docker support</li>
+<li>Controllers support in core</li>
+<li>Closure Table</li>
+<li>DLSiteContent</li>
+<li>Remove from core unused elements (Messages, Import, Export)</li>
+<li>Move to Extras (DocLister, DocInfo, Summary, Phpthumb, DLCrumb, DLMenu, DLSitemap, FormLister, If, Doc Manager, ElementInTree, FileSource, Quick Manager+)</li>
+<li>Remove Demo site</li>
+<li>Add new fields to WebUsers (last_name, middle_name)</li>
+<li>Create \helpers::phpthumb ({{\Helper::phpThumb('assets/images/evo-logo.png', 'w=150,h=76,far=C,bg=FFFFFF')}})</li>
+<li>Tracy add new type (manager/admin/adminfrontonly/managerfrontonly)</li>
+<li>Refactor Tracy dump and bdump functions for show all depth of data</li>
+<li>Add cache to get documentObject</li>
+</ul>
+<h2>Upgrade from older versions</h2>
+<ol>
+<li>
+<p>You need upgrade to 2.0.3 version</p>
+</li>
+<li>
+<p>Get script <strong>prepareToUpdateFrom2To3Evo</strong><br>
+Link: <a href="https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo">https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo</a>, or in Extras</p>
+</li>
+<li>
+<p>Run script on your site by url <strong>sitename</strong> /assets/updater.php</p>
+</li>
+</ol>
+<p>The release version will contain a full description of the changes with examples of how to use it.</p>";s:7:"summary";s:1633:"<p>Evolution CMS 3.0 RC</p>
+<p>We continue developing and implementing new ideas in Evolution CMS, started in the 2.0 branch to reach even greater possibilities and convenience in working with CMS.</p>
+<h2>What's new?</h2>
+<ul>
+<li>PostgreSQL support</li>
+<li>Redis sessions support</li>
+<li>Install/Update by migrations</li>
+<li>Install/Update by CLI</li>
+<li>Docker support</li>
+<li>Controllers support in core</li>
+<li>Closure Table</li>
+<li>DLSiteContent</li>
+<li>Remove from core unused elements (Messages, Import, Export)</li>
+<li>Move to Extras (DocLister, DocInfo, Summary, Phpthumb, DLCrumb, DLMenu, DLSitemap, FormLister, If, Doc Manager, ElementInTree, FileSource, Quick Manager+)</li>
+<li>Remove Demo site</li>
+<li>Add new fields to WebUsers (last_name, middle_name)</li>
+<li>Create \helpers::phpthumb ({{\Helper::phpThumb('assets/images/evo-logo.png', 'w=150,h=76,far=C,bg=FFFFFF')}})</li>
+<li>Tracy add new type (manager/admin/adminfrontonly/managerfrontonly)</li>
+<li>Refactor Tracy dump and bdump functions for show all depth of data</li>
+<li>Add cache to get documentObject</li>
+</ul>
+<h2>Upgrade from older versions</h2>
+<ol>
+<li>
+<p>You need upgrade to 2.0.3 version</p>
+</li>
+<li>
+<p>Get script <strong>prepareToUpdateFrom2To3Evo</strong><br>
+Link: <a href="https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo">https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo</a>, or in Extras</p>
+</li>
+<li>
+<p>Run script on your site by url <strong>sitename</strong> /assets/updater.php</p>
+</li>
+</ol>
+<p>The release version will contain a full description of the changes with examples of how to use it.</p>";s:14:"date_timestamp";i:1601567678;}i:7;a:8:{s:5:"title";s:19:"Evolution CMS 2.0.3";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/2.0.3";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Sun, 09 Aug 2020 14:25:50 PDT";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/2.0.3";s:11:"description";s:680:"<p>Most Important changes:</p>
+<ul>
+<li>Update DocLister (Dmi3yy)</li>
+<li>Update Formlister to 1.12.1 (Pathologic)</li>
+<li>Add ukrainian lang (Dmi3yy)</li>
+<li>fix webp rules for phpthumb (bug in chrome on mac and ios) (Dmi3yy)</li>
+<li>Up phpmailer version (Dmi3yy)</li>
+<li>Update PhpCompat.php (zatomant)</li>
+<li>Fix getConfig in manager (Dzhuryn Volodymyr)</li>
+<li>Fix Syntax error in mysql 8 (Kamil)</li>
+<li>Fix bug with empty snippet (Dzhuryn Volodymyr)</li>
+<li>Optimize backup manager evo 2.0 (Dzhuryn Volodymyr)</li>
+<li>Fix lost plugin events on install (Pathologic)</li>
+<li>Fix composer conflict version (Ser1ous)</li>
+<li>Add OnLogEvent event (Dmi3yy)</li>
+</ul>";s:7:"summary";s:680:"<p>Most Important changes:</p>
+<ul>
+<li>Update DocLister (Dmi3yy)</li>
+<li>Update Formlister to 1.12.1 (Pathologic)</li>
+<li>Add ukrainian lang (Dmi3yy)</li>
+<li>fix webp rules for phpthumb (bug in chrome on mac and ios) (Dmi3yy)</li>
+<li>Up phpmailer version (Dmi3yy)</li>
+<li>Update PhpCompat.php (zatomant)</li>
+<li>Fix getConfig in manager (Dzhuryn Volodymyr)</li>
+<li>Fix Syntax error in mysql 8 (Kamil)</li>
+<li>Fix bug with empty snippet (Dzhuryn Volodymyr)</li>
+<li>Optimize backup manager evo 2.0 (Dzhuryn Volodymyr)</li>
+<li>Fix lost plugin events on install (Pathologic)</li>
+<li>Fix composer conflict version (Ser1ous)</li>
+<li>Add OnLogEvent event (Dmi3yy)</li>
+</ul>";s:14:"date_timestamp";i:1597008350;}i:8;a:8:{s:5:"title";s:19:"Evolution CMS 2.0.2";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/2.0.2";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Fri, 13 Mar 2020 07:07:13 PDT";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/2.0.2";s:11:"description";s:2179:"<p>Changelog:</p>
+<ul>
+<li>[GitHub:#c2ba16eaf] - update core vendor (Dmi3yy)</li>
+<li>[GitHub:#f6d0b38e9] - update DocLister to 2.5.2 (Dmi3yy)</li>
+<li>[GitHub:#5ef199e39] - update FormLister to 1.10.3 (Dmi3yy)</li>
+<li>[GitHub:#55455f34e] - Fix "New Folder" icon (Sasha Beep)</li>
+<li>[GitHub:#d195ec024] - [F] init some properties (Pathologic)</li>
+<li>[GitHub:#2498b78a6] - core (fix) Send new manager pass by mail. (Ser1ous)</li>
+<li>[GitHub:#44da6253f] - fixing icons (Sasha Beep)</li>
+<li>[GitHub:#94325e240] - core (fix) add limit for search path (Ser1ous)</li>
+<li>[GitHub:#076261f7e] - turn off check connect to server, need rewrite (Dmi3yy)</li>
+<li>[GitHub:#3afdc6398] - fix wrong config path (mnoskov)</li>
+<li>[GitHub:#0641c0377] - fix getting installed pluing (mnoskov)</li>
+<li>[GitHub:#616dff82b] - keep plugin events priority on cms update (mnoskov)</li>
+<li>[GitHub:#ee4112953] - keep priority on pluing update (mnoskov)</li>
+<li>[GitHub:#d5cbaf115] - keep priority on pluing update (mnoskov)</li>
+<li>[GitHub:#4be2e330d] - fix mistake in getChildIds core function (ashmatko)</li>
+<li>[GitHub:#96d56e82c] - core (add) add SMTPAutoTLS options (Ser1ous)</li>
+<li>[GitHub:#bdb9945fc] - Fixed missing translation (luigif)</li>
+<li>[GitHub:#e2d6b02f5] - Allow empty namespace for snippets and chunks (mnoskov)</li>
+<li>[GitHub:#b456edc93] - Remove check child directory (Ser1ous)</li>
+<li>[GitHub:#b96ca08e6] - Update Parser.php (mnoskov)</li>
+<li>[GitHub:#418aa4f0a] - Update Core.php (mnoskov)</li>
+<li>[GitHub:#753742fd4] - [F] check this-&gt;placeholder on empty (mnoskov)</li>
+<li>[GitHub:#04dc7f2c5] - FIX php notice (milkamil93)</li>
+<li>[GitHub:#1b5f3f81b] - Fix enable_cache (Kamil)</li>
+<li>[GitHub:#ad23c0acd] - add Redis support (Pathologic)</li>
+<li>[GitHub:#566dd1e25] - by default auto_template_logic == sibling (Dmi3yy)</li>
+<li>[GitHub:#3f4dacec3] - fix for nested snippet work with PHx (Dmi3yy)</li>
+<li>[GitHub:#e28aefa9f] - core (fix) Fix composer.json version dotenv (Ser1ous)</li>
+<li>[GitHub:#58c90bf96] - core (fix) Fix composer.json version doting (Ser1ous)</li>
+<li>[GitHub:#beb0df101] - manager (fix) fix params plugin (Serious)</li>
+</ul>";s:7:"summary";s:2179:"<p>Changelog:</p>
+<ul>
+<li>[GitHub:#c2ba16eaf] - update core vendor (Dmi3yy)</li>
+<li>[GitHub:#f6d0b38e9] - update DocLister to 2.5.2 (Dmi3yy)</li>
+<li>[GitHub:#5ef199e39] - update FormLister to 1.10.3 (Dmi3yy)</li>
+<li>[GitHub:#55455f34e] - Fix "New Folder" icon (Sasha Beep)</li>
+<li>[GitHub:#d195ec024] - [F] init some properties (Pathologic)</li>
+<li>[GitHub:#2498b78a6] - core (fix) Send new manager pass by mail. (Ser1ous)</li>
+<li>[GitHub:#44da6253f] - fixing icons (Sasha Beep)</li>
+<li>[GitHub:#94325e240] - core (fix) add limit for search path (Ser1ous)</li>
+<li>[GitHub:#076261f7e] - turn off check connect to server, need rewrite (Dmi3yy)</li>
+<li>[GitHub:#3afdc6398] - fix wrong config path (mnoskov)</li>
+<li>[GitHub:#0641c0377] - fix getting installed pluing (mnoskov)</li>
+<li>[GitHub:#616dff82b] - keep plugin events priority on cms update (mnoskov)</li>
+<li>[GitHub:#ee4112953] - keep priority on pluing update (mnoskov)</li>
+<li>[GitHub:#d5cbaf115] - keep priority on pluing update (mnoskov)</li>
+<li>[GitHub:#4be2e330d] - fix mistake in getChildIds core function (ashmatko)</li>
+<li>[GitHub:#96d56e82c] - core (add) add SMTPAutoTLS options (Ser1ous)</li>
+<li>[GitHub:#bdb9945fc] - Fixed missing translation (luigif)</li>
+<li>[GitHub:#e2d6b02f5] - Allow empty namespace for snippets and chunks (mnoskov)</li>
+<li>[GitHub:#b456edc93] - Remove check child directory (Ser1ous)</li>
+<li>[GitHub:#b96ca08e6] - Update Parser.php (mnoskov)</li>
+<li>[GitHub:#418aa4f0a] - Update Core.php (mnoskov)</li>
+<li>[GitHub:#753742fd4] - [F] check this-&gt;placeholder on empty (mnoskov)</li>
+<li>[GitHub:#04dc7f2c5] - FIX php notice (milkamil93)</li>
+<li>[GitHub:#1b5f3f81b] - Fix enable_cache (Kamil)</li>
+<li>[GitHub:#ad23c0acd] - add Redis support (Pathologic)</li>
+<li>[GitHub:#566dd1e25] - by default auto_template_logic == sibling (Dmi3yy)</li>
+<li>[GitHub:#3f4dacec3] - fix for nested snippet work with PHx (Dmi3yy)</li>
+<li>[GitHub:#e28aefa9f] - core (fix) Fix composer.json version dotenv (Ser1ous)</li>
+<li>[GitHub:#58c90bf96] - core (fix) Fix composer.json version doting (Ser1ous)</li>
+<li>[GitHub:#beb0df101] - manager (fix) fix params plugin (Serious)</li>
+</ul>";s:14:"date_timestamp";i:1584108433;}i:9;a:8:{s:5:"title";s:20:"Evolution CMS 1.4.11";s:4:"link";s:62:"https://github.com/evolution-cms/evolution/releases/tag/1.4.11";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Fri, 13 Mar 2020 06:04:45 PDT";s:4:"guid";s:46:"tag:github.com,2008:Repository/12320050/1.4.11";s:11:"description";s:3094:"<p>From the most interesting:</p>
+<ul>
+<li>update backup manager,  work faster and can backup bigest db</li>
+<li>fix duplication of events that appeared in 1.4.10</li>
+</ul>
+<p>Changelog:</p>
+<ul>
+<li>[GitHub:#6f67301ba] - Update DocLister to 2.5.2 (Dmi3yy)</li>
+<li>[GitHub:#8d5b31b1f] - Update FormLister to 1.10.3 (Dmi3yy)</li>
+<li>[GitHub:#6e491904a] - fix keep plugins priority (mnoskov)</li>
+<li>[GitHub:#0859d1062] - fix getting installed plugin (mnoskov)</li>
+<li>[GitHub:#376d7f57c] - fix getting previous events (mnoskov)</li>
+<li>[GitHub:#449e8160e] - update instprocessor.php (mnoskov)</li>
+<li>[GitHub:#1883666e4] - update bk manager (dzhuryn)</li>
+<li>[GitHub:#acc871ecb] - fix nested snippet 100-&gt;200 (Dmytro Lukianenko)</li>
+<li>[GitHub:#6f7ad2534] - fix Update russian.php (projkin)</li>
+<li>[GitHub:#e4c47375d] - fix remove event name duplicates (Pathologic)</li>
+<li>[GitHub:#425b623f8] - fix for nested snippet work with PHx (Dmi3yy)</li>
+<li>[GitHub:#21ae71665] - fix(forms.css): fixed height input (Serg)</li>
+<li>[GitHub:#7c44e274c] - fix(forms.css) changed height inputs (Serg)</li>
+<li>[GitHub:#f3be07dd7] - Fix missing panel toggle arrows (Mr B)</li>
+<li>[GitHub:#29f80ce9a] - Fix tree icon for private resource (Mr B)</li>
+<li>[GitHub:#6c5f69caa] - fix(modx.js): remove loader with locked resource (Serg)</li>
+<li>[GitHub:#787bf71c4] - fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="522757815" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1261" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1261/hovercard" href="https://github.com/evolution-cms/evolution/issues/1261">#1261</a> mcpuk browser missing icons (Nicola)</li>
+<li>[GitHub:#53ec9444f] - Fix right arrow icon before element description (Sasha Beep)</li>
+<li>[GitHub:#d1a4f2e83] - fix demo site install (Pathologic)</li>
+<li>[GitHub:#22713e57e] - fix(modx.js): remove jQuery variable (Serg)</li>
+<li>[GitHub:#f5079d97f] - feat(modx.js): remove jQuery methods (Serg)</li>
+<li>[GitHub:#0fbd46f2a] - feat(modx.js): remove jQuery animate (Serg)</li>
+<li>[GitHub:#3a864cbc9] - fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="519253267" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1246" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1246/hovercard" href="https://github.com/evolution-cms/evolution/issues/1246">#1246</a> (kivamp)</li>
+<li>[GitHub:#e08a7f971] - Fix fullscreen tinymce hiding buttons (Mr B)</li>
+<li>[GitHub:#8bcf79aa7] - fix icon in tree when move <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="483762789" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1167" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1167/hovercard" href="https://github.com/evolution-cms/evolution/issues/1167">#1167</a> (Dmi3yy)</li>
+</ul>";s:7:"summary";s:3094:"<p>From the most interesting:</p>
+<ul>
+<li>update backup manager,  work faster and can backup bigest db</li>
+<li>fix duplication of events that appeared in 1.4.10</li>
+</ul>
+<p>Changelog:</p>
+<ul>
+<li>[GitHub:#6f67301ba] - Update DocLister to 2.5.2 (Dmi3yy)</li>
+<li>[GitHub:#8d5b31b1f] - Update FormLister to 1.10.3 (Dmi3yy)</li>
+<li>[GitHub:#6e491904a] - fix keep plugins priority (mnoskov)</li>
+<li>[GitHub:#0859d1062] - fix getting installed plugin (mnoskov)</li>
+<li>[GitHub:#376d7f57c] - fix getting previous events (mnoskov)</li>
+<li>[GitHub:#449e8160e] - update instprocessor.php (mnoskov)</li>
+<li>[GitHub:#1883666e4] - update bk manager (dzhuryn)</li>
+<li>[GitHub:#acc871ecb] - fix nested snippet 100-&gt;200 (Dmytro Lukianenko)</li>
+<li>[GitHub:#6f7ad2534] - fix Update russian.php (projkin)</li>
+<li>[GitHub:#e4c47375d] - fix remove event name duplicates (Pathologic)</li>
+<li>[GitHub:#425b623f8] - fix for nested snippet work with PHx (Dmi3yy)</li>
+<li>[GitHub:#21ae71665] - fix(forms.css): fixed height input (Serg)</li>
+<li>[GitHub:#7c44e274c] - fix(forms.css) changed height inputs (Serg)</li>
+<li>[GitHub:#f3be07dd7] - Fix missing panel toggle arrows (Mr B)</li>
+<li>[GitHub:#29f80ce9a] - Fix tree icon for private resource (Mr B)</li>
+<li>[GitHub:#6c5f69caa] - fix(modx.js): remove loader with locked resource (Serg)</li>
+<li>[GitHub:#787bf71c4] - fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="522757815" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1261" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1261/hovercard" href="https://github.com/evolution-cms/evolution/issues/1261">#1261</a> mcpuk browser missing icons (Nicola)</li>
+<li>[GitHub:#53ec9444f] - Fix right arrow icon before element description (Sasha Beep)</li>
+<li>[GitHub:#d1a4f2e83] - fix demo site install (Pathologic)</li>
+<li>[GitHub:#22713e57e] - fix(modx.js): remove jQuery variable (Serg)</li>
+<li>[GitHub:#f5079d97f] - feat(modx.js): remove jQuery methods (Serg)</li>
+<li>[GitHub:#0fbd46f2a] - feat(modx.js): remove jQuery animate (Serg)</li>
+<li>[GitHub:#3a864cbc9] - fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="519253267" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1246" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1246/hovercard" href="https://github.com/evolution-cms/evolution/issues/1246">#1246</a> (kivamp)</li>
+<li>[GitHub:#e08a7f971] - Fix fullscreen tinymce hiding buttons (Mr B)</li>
+<li>[GitHub:#8bcf79aa7] - fix icon in tree when move <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="483762789" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1167" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1167/hovercard" href="https://github.com/evolution-cms/evolution/issues/1167">#1167</a> (Dmi3yy)</li>
+</ul>";s:14:"date_timestamp";i:1584104685;}}s:7:"channel";a:6:{s:5:"title";s:28:"Release notes from evolution";s:4:"link";s:51:"https://github.com/evolution-cms/evolution/releases";s:8:"language";s:5:"en-US";s:13:"lastbuilddate";s:29:"Mon, 01 Feb 2021 06:45:27 PST";s:10:"feedburner";a:2:{s:14:"emailserviceid";s:19:"evocms-release-news";s:18:"feedburnerhostname";s:29:"https://feedburner.google.com";}s:7:"tagline";N;}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:12:"windows-1251";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:15:"source_encoding";s:5:"UTF-8";s:4:"etag";s:29:"PPlqn4g9zRY+aNLbKiatkbi6czE
+";s:13:"last_modified";s:31:"Wed, 10 Feb 2021 07:47:36 GMT
+";}
