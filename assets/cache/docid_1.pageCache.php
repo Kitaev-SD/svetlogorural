@@ -142,14 +142,18 @@
           </div>
           <div class="menu_block col-menu-r">
            <nav>
-             [!Wayfinder? 
+			   
+			 [!Wayfinder? 
              &outerTpl=`@CODE:<ul class="menu">[+wf.classes+][+wf.wrapper+]</ul>` 
+			   &parentRowTpl=`@CODE:<li[+wf.id+][+wf.classes+]><a href="[+wf.link+]" title="[+wf.title+]">[+wf.linktext+]</a>[+wf.wrapper+]<div class="menu_arrow"></div></li>`
              &startId=`3` 
-             &level=`1`
+             &level=`2`
               &sortOrder=`ASC`
               &sortBy=`menuindex`
-             &limit=`6`
+             &limit=`1000`
               !]
+
+			   </ul>
             </nav>
           </div>
         </div>

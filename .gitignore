@@ -8,6 +8,7 @@ build/*.o
 .htaccess
 /upload
 upload/
+/assets/cache
 
 /*.txt
 /*.html

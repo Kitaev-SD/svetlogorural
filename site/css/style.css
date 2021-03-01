@@ -756,7 +756,7 @@ table.table_4 tbody > tr:nth-child(2n) > th {
 		display: -webkit-flex;
 		display: -ms-flexbox;
 		display: flex;
-		overflow-x: auto;
+		overflow-x: visible;
 		-webkit-overflow-scrolling: touch;
 	}
 }
@@ -946,6 +946,9 @@ table.table_4 tbody > tr:nth-child(2n) > th {
 	display: grid;
 	align-items: center;
 }
+.menu_block nav {
+	height: 100%;
+}
 .cd-secondary-nav.fixed.slide-up {
 	height: 60px;
 }
@@ -985,6 +988,24 @@ table.table_4 tbody > tr:nth-child(2n) > th {
 	-ms-transition: all 0.2s ease-in-out 0s;
 	transition: all 0.2s ease-in-out 0s;
 	font-size: 1.2rem;
+	display: flex;
+	align-items: center;
+}
+.menu li .menu_arrow {
+	content: '';
+	border: solid #fff;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+	transform: rotate(-45deg);
+	position: absolute;
+	top: calc(50% - 4px);
+	right: 12px;
+	transition: all .2s ease;
+}
+.menu li:hover .menu_arrow {
+	transform: rotate(45deg);
+	transition: all .2s ease;
 }
 .menu li a:hover, .menu li:hover > a {
 	color: #ffffff;
@@ -1008,20 +1029,25 @@ table.table_4 tbody > tr:nth-child(2n) > th {
 	padding: 0;
 }
 .menu ul li a {
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: normal;
 	display: block;
-	color: #797979;
-	border-left: 3px solid #ffffff;
-	background: #ffffff;
+	color: #fff;
+	transition: all .3s ease;
 }
 .menu ul li a:hover, .menu ul li:hover > a {
-	background: #f0f0f0;
-	border-left: 3px solid #9CA3DA;
-	color: #797979;
+	color: #fff;
+	/* background: #5e7488; */
+	background: #7f94a6;
+	transition: all .3s ease;
 }
 .menu li:hover > ul {
 	display: block;
+	width: max-content;
+	height: max-content;
+	top: 100%;
+	background: #5e7488;
+	/* background: #7f94a6; */
 }
 .menu ul ul {
 	left: 149px;
