@@ -1230,7 +1230,8 @@ function getDocs($modx,$startid,$priority,$changefreq,$excludeTV)
       $docs = array_merge($docs, getDocs($modx,$id,$priority,$changefreq,$excludeTV));
   } // end foreach
   return $docs;
-}';$s['ipAddress']='return $ip = $_SERVER[\'REMOTE_ADDR\'];';$p=&$this->pluginCache;$p['CodeMirror']='/**
+}';$s['ipAddress']='return $ip = $_SERVER[\'REMOTE_ADDR\'];';$s['cache']='header("Cache-control: public");
+header("Expires: " . gmdate("D, d M Y H:i:s", time() + 60*60*24) . " GMT");';$p=&$this->pluginCache;$p['CodeMirror']='/**
  * CodeMirror
  *
  * JavaScript library that can be used to create a relatively pleasant editor interface based on CodeMirror 5.33 (released on 21-12-2017)
